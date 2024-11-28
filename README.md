@@ -5,6 +5,9 @@
 [![arXiv](https://img.shields.io/badge/ArXiv-Paper-B31B1B)](https://arxiv.org/abs/2411.18412)
 [![web](https://img.shields.io/badge/Project-Page-orange)](https://aba-ir.github.io/)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/adaptive-blind-all-in-one-image-restoration/5-degradation-blind-all-in-one-image)](https://paperswithcode.com/sota/5-degradation-blind-all-in-one-image?p=adaptive-blind-all-in-one-image-restoration)
+
+
 The code, pre-trained models, and other materials will be released soon. In the meantime, explore our cool [Project Page](https://aba-ir.github.io/) for more details.
 Stay tuned! 🚀🤗
 
